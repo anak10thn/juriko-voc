@@ -1,2 +1,1 @@
-S 	: NS_B SENT  NS_E
-SENT	: SUBJECT
+S : NS_B DIGIT  NS_E
