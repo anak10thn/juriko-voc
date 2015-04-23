@@ -4,7 +4,7 @@
 % NS_E
 </s>        sil
 
-% DIGIT
+% ANGKA
 FIVE       f ay v
 FOUR       f ao r
 NINE       n ay n
@@ -16,3 +16,7 @@ SIX        s ih k s
 THREE      th r iy
 TWO        t uw
 ZERO(2)    z ih r ow
+
+% SUBJECT
+TED        t eh d
+HOW        h ow
