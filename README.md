@@ -2,7 +2,8 @@ juriko-voc
 ==========
 Repositori ini berisi grammer dan vocabulary berbahasa indonesia.
 
-##Build
+## Build
 ```
-$./bin/mkdfa.pl juriko
+$ chmod +x -R bin/
+$ ./bin/mkdfa.pl juriko
 ```

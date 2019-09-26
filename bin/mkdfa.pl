@@ -12,6 +12,7 @@ $usrtmpdir = "";		# specify if any
 
 # mkfa executable location
 ($thisdir) = ($0 =~ /(.*(\/|\\))[^\/\\]*$/o);
+print "${thisdir}";
 $mkfabin = "${thisdir}mkfa";
 
 # dfa_minimize executable location
